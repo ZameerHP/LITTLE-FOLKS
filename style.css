@@ -333,7 +333,7 @@
 
 .page-header {
   background: linear-gradient(rgba(24, 29, 56, 0.7), rgba(24, 29, 56, 0.7)),
-    url(../best\ image.png);
+    url(best\ image.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
